@@ -1,0 +1,17 @@
+Desplegando una base de datos no-relacional. NoSQL 
+
+En este caso usamos mongo Atlas. Ahí podemos crear nuestro primer cluster
+
+Dentro de nuestro primer cluster, debemos conectarnos a nuestro IP adress local (de este modo, solo se haran conexios ssh hacia tu direccion).
+Además debemos crear un user para la database y una contraseña. 
+
+Además nos podemos conectar a la base de datos por varias maneras:
+
+- https://docs.mongodb.com/manual/mongo/ --Mongo Shell
+- https://robomongo.org/download --Robo 3T
+- https://www.mongodb.com/try/download/compass --Mongo Compass  (USARÉ esta)
+
+
+Al momento de conectarte por medio de url, sustituyes <password> por tu contraseña.
+
+Para apagarlo o algo así:

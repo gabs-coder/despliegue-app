@@ -1,0 +1,9 @@
+En una base de datos relacional o SQL vamos a usar el servicio gratuito ElephantSQL
+
+Llendo a ElephantSQL.com. Te logeas y tienes tus estancias de bases de datos que ya has creado.
+
+Para entrar a verlos podemos utilizar una herramienta pgAdmin 
+Al entrar a pgAdmin, pones tu contraseña master, vas a crear o añadir un nuevo servidor. Despues pones los datos que te dé la pagína web dentro de la app.
+
+Para filtrar resultados. Properties. Advanced. DB Restrcition y ponemos nuestra database
+Esto porque ElephantSQL es un servidor compartido

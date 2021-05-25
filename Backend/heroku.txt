@@ -1,0 +1,19 @@
+Heroku es una herramienta PaaS Platform As A Service y te permite desplegar tus aplicaciones backend con los lenguajes soportados por Heroku.
+
+
+Puedes implementar cualquier tipo de backend y puedes desplegar tu aplicacion conectandola con un 
+repositorio.
+
+
+
+Heroku se ve muy completo.
+Puedes usarla con la linea de comandos(CLI) y más herramientas como servicios de datos, 
+plataformas, etc.
+
+Con Heroku puedes desplegar aplicaciones con backend. Lo puedes conectar con tu repositorio en GitHub
+dandole new app (creo). Además de eso, tienes la oportunidad de conectar aquella app a tu base de datos
+no relacional. En la opcion de settings puedes configurar una variable llamada DB_URL y como
+como valor establecer la url de mongo Atlas (con password y todo) y para que te funcione:
+    Debes ir a las configuraciones de la DB y poner que se puede entrar desde cualquier IP. IP access creo que es. 
+ 
+ Le das a deploy a branch y ya. 
