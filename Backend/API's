@@ -1,0 +1,16 @@
+Podemos revisar las API's a travez de Postman (crear nueva contraseña). 
+A travez de PostMan podemos hacer pedidos a end-points como GET - POST - DELETE. Modificando
+el body y las cabeceras de estos. Del mismo modo podemos hacer pedidos a los API's a travez de
+curl en la CLI con ciertos comandos.
+
+Postman tambien nos permite hacer documentaciones para nuestras API's de nuestras aplicaciones 
+de forma gratuita. 
+
+NOTA: Supongo que todas las API's están creadas por medio de un lenguaje en backend, de modo que
+cuando vayas a hacer un pedido (Get, Post, Put, Patch) sea más fácil. Puedes configurar las APIs 
+por medio de Headers, el mismo body (en el cual puedes escribir en raw, json, encoded, etc) y 
+otras configs ya sean a travez del lenguaje en backend, la CLI (curl) y/o Postman.
+
+
+
+Espero te ayude Gabo!
