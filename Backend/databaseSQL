@@ -1,5 +1,8 @@
 En una base de datos relacional o SQL vamos a usar el servicio gratuito ElephantSQL
 
+ElephantSQL es un PostgreeSQL as a Service, por lo cúal es un servicio que acepta 
+datos de forma PostgreeSQL.
+
 Llendo a ElephantSQL.com. Te logeas y tienes tus estancias de bases de datos que ya has creado.
 
 Para entrar a verlos podemos utilizar una herramienta pgAdmin 

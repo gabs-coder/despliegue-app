@@ -1,0 +1,21 @@
+Sí quieres lanzar una aplicacion y desplegarla para cosas como por ejemplo: 
+ - Provar Usuarios
+ - Provar el codigo
+ - Ver como funciona todo
+Puedes usar Heroku!! Ya que es una PaaS (Platform as a Service), no necesitas preocuparte por
+configs del sistema (vistos en Curso de Servidores), sino que ya esta bien ahí. 
+En ese caso, tienes tu base de datos Relacional, y no Relacional en las plataformas mencionadas, le haces
+deploy en Heroku para que se despliegue, y puedes fácilmente mirar, manipular y extraer info 
+de tu API a travez de Postman.
+
+
+
+Cuando ya llegues a un punto que necesitas escalar tu aplicacion, necesitas aplicarle más cosas y tal.
+Bueno, pues para eso, tienes los servicios como: 
+  - GCP (Google Cloud Platform)
+  - AWS
+  - IBM Cloud Service
+  - Microsoft Azure
+Todas estas tienen un curso especial en Platzi para que puedas manejarlo y entender más de este mundo
+
+Me alegra que estes cada vez más entendiendo :)!
